@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  },
+  "name": "ammonil.github.io",
+  "version": "1.0.0",
+  "description": "Ammon Russell",
+  "main": "cti_110_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ammonil/Ammonil.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ammonil/Ammonil.github.io/issues"
+  },
+  "homepage": "https://github.com/Ammonil/Ammonil.github.io#readme"
+}
